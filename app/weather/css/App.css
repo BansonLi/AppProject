@@ -1,0 +1,33 @@
+/***
+***
+***/
+#today-weather{}
+#today-weather #location{}
+#today-weather #temperature{}
+
+.circle {
+    margin: 10px auto 10px auto;
+    width: 100px;
+    height: 100px;
+    background: white;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    font-size: 60px;
+    text-align:center;
+    line-height:100px;
+}
+.line {border-bottom-width:1px;border-bottom-color: #8c8c8c;border-bottom-style: solid;}
+.week-weather-words{font-size:60px;color:#FFFFFF;margin: 10px auto 10px auto;text-align: center;}
+.week-weather-image{margin: 10px auto 10px auto;text-align: center;}
+
+.nextday_bg_color_lightskyblue{background: lightskyblue}
+.nextday_bg_color_deepskyblue{background: deepskyblue;}
+.nextday_bg_color_dodgerblue{background: dodgerblue;}
+.nextday_bg_color_greenyellow{background: greenyellow}
+.nextday_bg_color_springgreen{background: springgreen}
+.nextday_bg_color_darkgreen{background: darkgreen}
+.nextday_bg_color_orange{background: orange}
+.nextday_bg_color_darkorange{background: darkorange}
+.nextday_bg_color_orangered{background: orangered}
+
